@@ -1,0 +1,3 @@
+logs/*.log
+!logs/special.log
+errors.log
